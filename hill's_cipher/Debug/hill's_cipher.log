@@ -1,0 +1,15 @@
+﻿  hill's_cipher.cpp
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassCrypto.h(24,21): warning C4244: аргумент: преобразование "LL" в "const unsigned int", возможна потеря данных
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassCrypto.h(24,43): warning C4244: аргумент: преобразование "LL" в "int", возможна потеря данных
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassCrypto.h(46,11): warning C4244: return: преобразование "LL" в "int", возможна потеря данных
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassUser.h(328,11): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassUser.h(415,12): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassMenu.h(30,35): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassMenu.h(35,42): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassMenu.h(64,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassMenu.h(70,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassMenu.h(106,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassCrypto.h(110): warning C4715: ClassCrypto::setMaxPoryadok: значение возвращается не при всех путях выполнения
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassCrypto.h(93): warning C4715: ClassCrypto::getSqrt: значение возвращается не при всех путях выполнения
+C:\Users\kosus\source\repos\hill's_cipher\hill's_cipher\ClassMenu.h(58): warning C4715: ClassMenu::getColName: значение возвращается не при всех путях выполнения
+  hill's_cipher.vcxproj -> C:\Users\kosus\source\repos\hill's_cipher\Debug\hill's_cipher.exe
